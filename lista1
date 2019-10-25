@@ -126,7 +126,7 @@ http://62.210.81.214:8081/loadbalance/tcfun/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/1WwUBew.png" group-title="Canais | Filmes e Séries",Telecine Action                                                  
 http://163.172.13.195:8081/loadbalance/tcaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxOSAxMjozNTowOCBBTSZoYXNoX3ZhbHVlPW9Md0J4T2RPNHZhaUVsNWFkK1RlVXc9PSZ2YWxpZG1pbnV0ZXM9MjA=                                                
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/9QaYUvb.png" group-title="Canais | Filmes e Séries",Telecine Touch                                                 
-http://163.172.13.195:8081/loadbalance/tctouch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxOSAxMjozNTowOCBBTSZoYXNoX3ZhbHVlPW9Md0J4T2RPNHZhaUVsNWFkK1RlVXc9PSZ2YWxpZG1pbnV0ZXM9MjA=                                                   
+http://nitro.ltd:25461/vince/vince/41227                                                   
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/aYD5JQg.jpg" group-title="Canais | Filmes e Séries",Telecine Cult                                                
 http://62.210.81.214:8081/loadbalance/tccult/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxOSAxMjozNTowOCBBTSZoYXNoX3ZhbHVlPW9Md0J4T2RPNHZhaUVsNWFkK1RlVXc9PSZ2YWxpZG1pbnV0ZXM9MjA=                                                
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel" tvg-logo="https://i.imgur.com/YXwbeAP.png" group-title="Canais | Filmes e Séries",Universal Channel                                                 
