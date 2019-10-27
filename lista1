@@ -124,7 +124,7 @@ http://nitro.ltd:25461/vince/vince/41225
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://i.imgur.com/yJS1eXZ.png" group-title="Canais | Filmes e Séries",Telecine Pipoca                                                  
 http://nitro.ltd:25461/vince/vince/41229                                              
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/w1q0UUu.png" group-title="Canais | Filmes e Séries",Telecine Premium                                                   
-http://nitro.ltd:25461/vince/vince/41228                                                 
+http://topclientehd.ddns.net:8080/live/Oi1002/Oi1342727/9767.ts
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/K5HmPFN.png" group-title="Canais | Filmes e Séries",Telecine Fun                                                   
 http://nitro.ltd:25461/vince/vince/41230                                                 
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/1WwUBew.png" group-title="Canais | Filmes e Séries",Telecine Action                                                  
